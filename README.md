@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09d616ba-2a98-4526-81be-a312abb0cabc/deploy-status)](https://app.netlify.com/sites/shiatsu-zenco/deploys)
+
 # hugo-product-launch-kickstart [![Pay me][paypal-svg]][paypal-dot-me] [![Sponsor me][github-sponsors-svg]][github-sponsors]
 
 Deploy [🚀 Hugo Product Launch][github-url] to [netlify](https://www.netlify.com/) with one-click:
