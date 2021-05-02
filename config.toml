@@ -10,7 +10,7 @@ copyright = "© Shiatsu Zen Co"
 description = "You don't even know what we can do for you!"
 favicon = "images/favicon.png"
 hidedesignbyline = true
-images = ["images/share-image.png"]
+images = ["/conscious-design-qxdjhlp59-o-unsplash.jpg"]
 title = "Shiatsu Zen Co"
 [params.meta]
 keywords = "shiatsu, zen"
